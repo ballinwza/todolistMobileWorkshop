@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 ## React Native - todo list mobile workshop 
 ___________________________________________
@@ -15,11 +14,3 @@ First Workshop for practice
 [[Screenshot Mobile 3](./conclusionPicture/screenshot-mobile-3.png)]</br>
 [[Screenshot Mobile 4](./conclusionPicture/screenshot-mobile-4.png)]</br>
 [[Screenshot Mobile 5](./conclusionPicture/screenshot-mobile-5.png)]
-=======
-# todolistMobileWorkshop
-React Native - todo list mobile workshop 
-First Workshop for practice
-___________________________________________
-  >1.แสดงผลบนหน้า mobile (android) ได้
-  >2.เพิ่ม-ลบ List ที่ต้องการได้
->>>>>>> 999ba07b1bf2e759ba6285e6445643bf47915e04
