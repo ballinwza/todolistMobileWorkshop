@@ -1,6 +1,5 @@
 
 ## React Native - todo list mobile workshop 
-___________________________________________
 
 First Workshop for practice
 
